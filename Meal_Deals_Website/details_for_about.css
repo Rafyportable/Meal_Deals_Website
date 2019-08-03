@@ -1,11 +1,34 @@
-img.eric{
+img.eric {
     display: block;
     margin-right: auto;
     margin-left: auto;
 }
 
-img.vicky{
-display: block;
-margin-left: auto;
-margin-right: auto;
+img.vicky {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+
+img.raf {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+}
+
+header.info {
+
+    background: #470a0a;
+    padding: 10%;
+
+}
+
+h1 {
+
+    font-size: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #d6a882;
+
 }

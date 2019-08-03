@@ -35,10 +35,12 @@ h2.audio{
     text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
     text-decoration-line: overline;
+    font-size: 90px;
 }
 
 h2.updates {
     text-align: right;
     font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial;
     text-decoration-line: overline;
+    font-size: 90px;
 }
