@@ -1,0 +1,44 @@
+
+h1 {
+
+font-size: 96px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-weight: 700;
+}
+.site-header {
+    color: #031b03;
+    background: #c08e06;
+    padding: 20px 5%;
+    box-shadow: 10px 10px;
+
+}
+
+p {
+
+    font-size: 30PX;
+    font-family: 'Lucida Sans','Lucida Sans Regular','Lucida Grande','Lucida Sans Unicode', Geneva, Verdana,sans-serif;
+    font-style: unset;
+    font-weight: 100;
+}
+
+a{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    color: #7e490c
+    
+}
+
+h2.audio{ 
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+    text-decoration-line: overline;
+}
+
+h2.updates {
+    text-align: right;
+    font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial;
+    text-decoration-line: overline;
+}
