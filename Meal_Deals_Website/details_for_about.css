@@ -18,6 +18,13 @@ img.raf {
     padding: 2%;
 }
 
+img.kevin {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 2%;
+}
+
 header.info {
 
     background: #470a0a;
